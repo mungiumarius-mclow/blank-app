@@ -15,17 +15,9 @@
 
 # Kotlin
 *.class
-*.jar
-*.war
 
 # Gradle
-gradle-wrapper.jar
 /.gradle/
 
 # Android Studio
 *.hprof
-
-# Old Streamlit files (project migrated to Android)
-.streamlit/
-__pycache__/
-*.py[cod]
